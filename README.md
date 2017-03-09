@@ -1,6 +1,6 @@
 This example demonstrates how to use [passport-facebook-token](https://github.com/drudge/passport-facebook-token) with express and passport for JWT tokens.  In this example we will use the HTTP Header "Authorization" to send the facebook user token to this server.
 
-The client to use exercise this app can be found here <TODO>.
+The client to use exercise this app is [express-passport-facebook-token-example-client](https://github.com/philipbrack/express-passport-facebook-token-example-client).
 
 The server runs on port http://localhost:3000 and the client on http://localhost:4200.  The server is a barebone express server and the client is an angular 2 project built with the angular-cli.
 
