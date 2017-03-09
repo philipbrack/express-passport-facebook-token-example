@@ -1,0 +1,28 @@
+{
+  "name": "express-passport-facebook-token-example",
+  "version": "0.1.0",
+  "description": "Express 4.x app using Passport for facebook oauth jwt (passport-facebook-token).",
+  "keywords": [
+    "example",
+    "express",
+    "passport",
+    "passport-facebook-token"
+  ],
+  "author": "Philip Brack",
+  "license": "Unlicense",
+  "homepage": "https://github.com/TBD",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TBD.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TBD/issues"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "morgan": "*",
+    "passport": "*",
+    "passport-facebook-token": "*"
+  }
+}
