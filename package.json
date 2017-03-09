@@ -10,13 +10,13 @@
   ],
   "author": "Philip Brack",
   "license": "Unlicense",
-  "homepage": "https://github.com/TBD",
+  "homepage": "https://github.com/philipbrack/express-passport-facebook-token-example",
   "repository": {
     "type": "git",
-    "url": "git://github.com/TBD.git"
+    "url": "git://github.com/philipbrack/express-passport-facebook-token-example.git"
   },
   "bugs": {
-    "url": "https://github.com/TBD/issues"
+    "url": "https://github.com/philipbrack/express-passport-facebook-token-example/issues"
   },
   "dependencies": {
     "body-parser": "*",
